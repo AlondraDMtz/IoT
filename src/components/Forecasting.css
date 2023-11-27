@@ -1,0 +1,27 @@
+.forecast-panel {
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .humidity {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .box {
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 130px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .forecast-item {
+    margin-bottom: 20px;
+  }
+  
